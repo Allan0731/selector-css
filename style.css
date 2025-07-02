@@ -1,0 +1,45 @@
+*{
+    text-align: center;
+}
+
+h1{
+    font-style: oblique;
+    text-align: center;
+
+}
+h2{
+    font-family: Arial, sans-serif;
+    font-weight: lighter;
+    text-align: center;
+}
+p{
+    font-style: italic;
+}
+
+.Great{
+    color: brown;
+}
+li{
+    font-weight:bold;
+    font-size: 25px;
+    font-style: oblique;
+    list-style: none;
+
+}
+
+#Kill{
+    color: red;
+}
+#jill{
+    color: blue;
+}
+#Pill{
+    color: green;
+}
+#chill{
+    color: purple;
+}
+#hill{
+    color: darkblue;
+}
+
